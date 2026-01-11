@@ -27,3 +27,4 @@ from data preprocessing to deployment and monitoring.
 - Scalable deployment patterns
 
 📫 Connect with me on LinkedIn
+https://www.linkedin.com/in/huzefa-battiwala/
